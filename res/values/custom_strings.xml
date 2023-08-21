@@ -292,4 +292,11 @@
     <!-- Powershare -->
     <string name="powershare_enable_title">Battery Share</string>
     <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    
+    <!-- Custom Display Settings -->
+    <string name="display_settings_title">Custom Display Settings</string>
+    <string name="display_settings_summary">Enable/Disable HBM and DC Dimming here</string>
+    
+    <!-- FPS Info -->
+    <string name="fps_info_title">FPS Info</string>
 </resources>
